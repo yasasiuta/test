@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0f5f79c-5a9d-4926-b0b6-94ce8b0d3d8d" name="Default Changelist" comment="" />
+    <list default="true" id="a0f5f79c-5a9d-4926-b0b6-94ce8b0d3d8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +48,25 @@
       <option name="presentableId" value="Default" />
       <updated>1582808204706</updated>
     </task>
+    <task id="LOCAL-00001" summary="push测试">
+      <created>1582858704760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582858704760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="push测试" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="598" y="113" key="CommitChangelistDialog2" timestamp="1582858703777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582858703777" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582812097785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -56,10 +75,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="510" y="324" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582812112054" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582811838729">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582858723235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582811838729" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582858723235" />
     <state x="640" y="474" key="com.intellij.ide.util.TipDialog" timestamp="1582858534252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -68,10 +87,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="744" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582811065913" />
-    <state x="683" y="311" key="git4idea.merge.GitPullDialog" timestamp="1582810088602">
+    <state x="683" y="311" key="git4idea.merge.GitPullDialog" timestamp="1582858873805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="683" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582810088602" />
+    <state x="683" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582858873805" />
     <state x="1347" y="546" key="git4idea.ui.GitResetDialog" timestamp="1582810272042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
