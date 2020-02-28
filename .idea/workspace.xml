@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0f5f79c-5a9d-4926-b0b6-94ce8b0d3d8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YOKT655hM6nMqlJBPKWp5YkbtS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0f5f79c-5a9d-4926-b0b6-94ce8b0d3d8d" name="Default Changelist" comment="" />
+      <created>1582808204706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582808204706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582812097785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582812097785" />
+    <state x="510" y="324" key="SettingsEditor" timestamp="1582812112054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="324" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582812112054" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582811838729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582811838729" />
+    <state x="640" y="474" key="com.intellij.ide.util.TipDialog" timestamp="1582858534252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="474" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582858534252" />
+    <state x="744" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1582811065913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582811065913" />
+    <state x="683" y="311" key="git4idea.merge.GitPullDialog" timestamp="1582810088602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582810088602" />
+    <state x="1347" y="546" key="git4idea.ui.GitResetDialog" timestamp="1582810272042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1347" y="546" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582810272042" />
+    <state x="1393" y="552" key="git4idea.ui.GitStashDialog" timestamp="1582810261022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1393" y="552" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582810261022" />
+  </component>
+</project>
